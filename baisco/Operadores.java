@@ -19,8 +19,7 @@ public class Operadores {
 		
 		System.out.println("============================");
 		
-	
-		
+			
 		 
 		int numero1=10, numero2=8;
 	
